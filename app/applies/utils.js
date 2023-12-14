@@ -1,0 +1,9 @@
+const UNCATEGORIZED = "UNCATEGORIZED";
+const DECLINED = "DECLINED";
+const INVITED = "INVITED";
+
+module.exports = {
+    UNCATEGORIZED,
+    DECLINED,
+    INVITED
+}
